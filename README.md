@@ -8,7 +8,6 @@
 
 ## I'm a Student 👨‍🎓,
 - 🌱 I’m currently learning 😂
-- 
 - 🌱 I’m currently learning **.net**
 
 - 🤝 I’m looking for help with **web services**
