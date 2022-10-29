@@ -1,8 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Student 👨‍🎓,
-- 🌱 I’m currently learning 😂
-
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
