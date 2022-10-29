@@ -2,8 +2,7 @@
 
 ## I'm a Student 👨‍🎓,
 - 🌱 I’m currently learning 😂
-- 👋 Hi, I’m @Atakan-Aktakka
-- 👀 I’m interested in mobile
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -13,6 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/atakanaktakka" target="blank"><img src="https://img.shields.io/twitter/follow/atakanaktakka?logo=twitter&style=for-the-badge" alt="atakanaktakka" /></a> </p>
 
+## I'm a Student 👨‍🎓,
+- 🌱 I’m currently learning 😂
+- 
 - 🌱 I’m currently learning **.net**
 
 - 🤝 I’m looking for help with **web services**
