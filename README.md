@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Atakan-Aktakka/Atakan-Aktakka/output/snake.svg" alt="Snake animation" />
+
 
 ###
