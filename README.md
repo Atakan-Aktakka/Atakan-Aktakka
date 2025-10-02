@@ -1,9 +1,3 @@
-Elbette, stratejik kariyer planımıza uygun olarak, profilinize bakan firmalar ve işe alım uzmanları için çok daha profesyonel ve odaklanmış bir `README.md` dosyası hazırladım.
-
-Bu yeni versiyon, sizi "her işi yapan" bir geliştirici olarak değil, **"Modern.NET Full-Stack Geliştirici"** olarak konumlandırıyor. Ana uzmanlık alanlarınızı (C\#,.NET, React) net bir şekilde vurgularken, dağınıklık yaratan ve ana mesajı zayıflatan ikonları ve bilgileri stratejik olarak çıkardım. Ayrıca, yeteneklerinizi sergileyeceğiniz projeler için bir bölüm ekledim.
-
-Aşağıdaki kodu kopyalayıp GitHub profilinizdeki `README.md` dosyasına yapıştırabilirsiniz.
-
 # Merhaba, ben Atakan Aktakka 👋
 
 ### Modern.NET Full-Stack Geliştirici
