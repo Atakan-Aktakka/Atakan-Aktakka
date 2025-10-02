@@ -12,7 +12,7 @@
 
 \<div align="left"\>
 \<a href="[https://tr.linkedin.com/in/atakan-aktakka](https://tr.linkedin.com/in/atakan-aktakka)" target="\_blank"\>
-\<img src="[https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="linkedin logo" /\>
+\<img src="[https://img.shields.io/static/v1?message=LinkedIn\&logo=linkedin\&label=\&color=0077B5\&logoColor=white\&labelColor=\&style=for-the-badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="linkedin logo"  /\>
 \</a\>
 \<a href="mailto:atakanaktakka@gmail.com" target="\_blank"\>
 \<img src="[https://img.shields.io/static/v1?message=E-posta\&logo=gmail\&label=\&color=D14836\&logoColor=white\&labelColor=\&style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DE-posta%26logo%3Dgmail%26label%3D%26color%3DD14836%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge)" height="35" alt="gmail logo" /\>
