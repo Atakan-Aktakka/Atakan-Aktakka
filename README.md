@@ -43,6 +43,20 @@ AI & data science · Cybersecurity fundamentals
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Atakan-Aktakka&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Atakan-Aktakka&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atakan-Aktakka&theme=github-compact&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atakan-Aktakka/Atakan-Aktakka/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atakan-Aktakka/Atakan-Aktakka/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Atakan-Aktakka/Atakan-Aktakka/output/github-snake.svg" />
+</picture>
+
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atakan--aktakka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atakan-aktakka)
